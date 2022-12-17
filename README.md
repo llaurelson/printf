@@ -245,4 +245,4 @@ Lawrence Okoeguale
 
 ### End
 
-Bamidele & Adefolaju @ ALX software engineering programme 2022.
+Lawrence @ ALX software engineering programme 2022.
